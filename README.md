@@ -1,7 +1,7 @@
 # Jadwal Sholat APP React Native
-<img src="./screenshoots/img1.jpeg" style = "width: 50px" />
-<img src="./screenshoots/img2.jpeg" style = "width: 50px" />
-<img src="./screenshoots/img3.jpeg" style = "width: 50px" />
+![](https://github.com/nahansans/jadwal_sholat/screenshoots/img1.jpeg | width=100)
+![](https://github.com/nahansans/jadwal_sholat/screenshoots/img2.jpeg | width=100)
+![](https://github.com/nahansans/jadwal_sholat/screenshoots/img3.jpeg | width=100)
 
 # Installation
 - git clone https://github.com/nahansans/jadwal_sholat.git
